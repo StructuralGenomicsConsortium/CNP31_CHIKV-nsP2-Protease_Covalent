@@ -17,7 +17,7 @@ Medicinal chemists involved in this CNP Project:
 Professor Tim Willson, University of North Carolina Chapel Hill - [@tmw20653](https://github.com/tmw20653)
 Professor Peter Brown, University of North Carolina Chapel Hill
 Dr. Anwar Hossain, University of North Carolina Chapel Hill - [@ahsgc](https://github.com/ahsgc)
-Dr. Kesatebrhan Asressu, University of North Carolina Chapel Hill- [@Kesatebrhan](https://github.com/Kesatebrhan)https://github.com/Kesatebrhan
+Dr. Kesatebrhan Asressu, University of North Carolina Chapel Hill- [@Kesatebrhan](https://github.com/Kesatebrhan)
 
 You can see other contributors in the [Issues](https://github.com/StructuralGenomicsConsortium/SGC-UNC_nsP2-Protease_Covalent-Inhibitors/issues) (tab above).
 
