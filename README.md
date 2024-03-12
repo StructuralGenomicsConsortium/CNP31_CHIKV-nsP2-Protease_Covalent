@@ -1,9 +1,16 @@
-# SGC-UNC_nsP2-Protease_Covalent-Inhibitors
+# SGC-UNC_CHIKV-nsP2-Protease_Covalent
 
-Chikungunya (CHIKV) is an enveloped, positive single-stranded-RNA virus with pandemic potential that causes severe chronic arthritis. CHIKV nsP2 encodes a Papain-like cysteine protease that is essential for viral replication. Pyrazole (E)-vinyl sulfone RA-0002034 was identified as a potent CHIKV nsp2 protease inhibitor from a targeted screen of covalent cysteine-reactive fragments in the READDI Antiviral Drug Discovery Center. Initial resynthesis of the hit compound yielded a 1:1 mixture of acyclic (3) and cyclic sulfones (4) (Figure 1), which were separable only by HPLC. Extensive chemical and analytical method development led to the synthesis and characterization of the pure acyclic and cyclic vinyl sulfones. Optimal conditions for conversion of the acyclic to cyclic sulfone by intramolecular aza-Michael reaction were also identified. Hit-to-lead optimization incorporated structural modifications on: 1) the left-hand side aromatic group, 2) the central heterocyclic core, and 3) the right-hand side covalent warhead. The 2,5-dimethoxyphenyl substituted analog was found to have kinact/Ki >9000 and improved microsomal stability compared to the initial hit. An isoxazole core was found to be equipotent with original pyrazole but immune to intramolecular cyclization. Methyl vinyl sulfone was consistently the most potent warhead. Interestingly, cyano substitution at the pyrazole 4-position further improved kinact/Ki. The major challenge in this series of covalent nsP2 inhibitors is to address the poor pharmacokinetics by decreasing the GSH reactivity and improving plasma stability through synthesis of acyclic analogs with detuned warheads. Alternatively, we are exploring modifications of the core that favor the retro-aza-Michael reaction, opening the possibility of using a cyclic analog as a pro-drug.
+An SGC Open Chemistry Networks Project devoted to the discovery and development of CHIKV nsP2 Protease covalent inhibitors. Chikungunya (CHIKV) is an enveloped, positive single-stranded-RNA virus with pandemic potential that causes severe chronic arthritis. CHIKV nsP2 encodes a Papain-like cysteine protease that is essential for viral replication. This project aims to develop compounds against CHIKV nsP2 Protease as starting points for medicines for future coronavirus pandemics. A targeted screen of covalent cysteine-reactive fragments at the READDI Antiviral Drug Discovery Center in UNC Chapel Hill identified a nanomolar active CHIKV nsP2 protease inhibitor. The group is currently involved in hit-to-lead optimization by doing extensive SAR, analysis of physchem properties, GSH reactivity studies, in vitro and in vivo PK, metID studies to develop a first-in-class CHIKV nsP2 Protease covalent inhibitor.
 
-Figure 1. Hit discovery, method development, and ongoing H2L progression of CHIKV nsp2 protease covalent hit
-![image](https://github.com/StructuralGenomicsConsortium/SGC-UNC_nsP2-Protease_Covalent-Inhibitors/assets/162926266/39f019a0-31a1-433d-8387-76d0cf37e708)
+You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
+
+If this sounds interesting, and you agree to the simple RULES, you can get started.
+
+For the science background, head to the wiki or check out the living paper that is being written here.
+
+For answers to all the questions you have, go to the FAQs.
+
+If you'd like to contact someone to talk about contributing, then write something in an Issue (see the tab above), which is a good way to communicate openly. (Issues describe what currently needs doing and act as a discussion forum - you need a Github account but it's super easy and not spammy. There's also an email address (chemistry@thesgc.org) you can use to ask questions. You can read more about all this in the "How To" Area
 
 Medicinal chemists involved in this project:
 
