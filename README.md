@@ -7,8 +7,8 @@ Figure 1. Hit discovery, method development, and ongoing H2L progression of CHIK
 
 Medicinal chemists involved in this project:
 
-Professor Tim Willson, University of North Carolina Chapel Hill - @tmw20653
+Professor Tim Willson, University of North Carolina Chapel Hill - [@tmw20653](https://github.com/tmw20653)
 Professor Peter Brown, University of North Carolina Chapel Hill
-Dr. Anwar Hossain, University of North Carolina Chapel Hill - @ahsgc
-Dr. Kesatebrhan Asressu, University of North Carolina Chapel Hill- @Kesatebrhan
+Dr. Anwar Hossain, University of North Carolina Chapel Hill - [@ahsgc](https://github.com/ahsgc)
+Dr. Kesatebrhan Asressu, University of North Carolina Chapel Hill- [@Kesatebrhan](https://github.com/Kesatebrhan)https://github.com/Kesatebrhan
 
