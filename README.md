@@ -1,4 +1,4 @@
-# SGC-UNC_CHIKV-nsP2-Protease_Covalent
+# CNP31_CHIKV-nsP2-Protease_Covalent
 
 An SGC Open Chemistry Networks Project devoted to the discovery and development of CHIKV nsP2 Protease covalent inhibitors. Chikungunya (CHIKV) is an enveloped, positive single-stranded-RNA virus with pandemic potential that causes severe chronic arthritis. CHIKV nsP2 encodes a Papain-like cysteine protease that is essential for viral replication. This project aims to develop compounds against CHIKV nsP2 Protease as starting points for medicines for future coronavirus pandemics. A targeted screen of covalent cysteine-reactive fragments in the READDI Antiviral Drug Discovery Center at UNC Chapel Hill, USA identified a nanomolar potent CHIKV nsP2 protease inhibitor. The group is currently involved in hit-to-lead optimization by doing extensive SAR, analysis of physchem properties, GSH reactivity studies, in vitro and in vivo PK, metID studies to develop a first-in-class CHIKV nsP2 Protease covalent inhibitor.
 
