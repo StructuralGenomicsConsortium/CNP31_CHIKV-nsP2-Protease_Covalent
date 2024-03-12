@@ -5,4 +5,10 @@ Chikungunya (CHIKV) is an enveloped, positive single-stranded-RNA virus with pan
 Figure 1. Hit discovery, method development, and ongoing H2L progression of CHIKV nsp2 protease covalent hit
 ![image](https://github.com/StructuralGenomicsConsortium/SGC-UNC_nsP2-Protease_Covalent-Inhibitors/assets/162926266/39f019a0-31a1-433d-8387-76d0cf37e708)
 
+Medicinal chemists involved in this project:
+
+Professor Tim Willson, University of North Carolina Chapel Hill - @tmw20653
+Professor Peter Brown, University of North Carolina Chapel Hill
+Dr. Anwar Hossain, University of North Carolina Chapel Hill - @ahsgc
+Dr. Kesatebrhan Asressu, University of North Carolina Chapel Hill- @Kesatebrhan
 
